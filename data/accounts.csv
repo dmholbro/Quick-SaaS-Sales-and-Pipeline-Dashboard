@@ -1,0 +1,481 @@
+account_id,account_name,segment,region,employee_count
+5000,Osborn and Sons,Private Equity,West,50
+5001,"Snyder, Campos and Callahan",Private Equity,Mid-Atlantic,3000
+5002,Burton Ltd,Fund/Asset Manager,Texas/Central,1500
+5003,Carlson-Cruz,Investment Bank,Mid-Atlantic,800
+5004,"Ferrell, Rice and Maddox",Private Equity,Midwest,8000
+5005,Frazier Inc,Large Cap Public,Mid-Atlantic,3000
+5006,"Dyer, Potter and Mack",Investment Bank,Midwest,400
+5007,Rodriguez-Graham,Mid Cap Public,Mid-Atlantic,8000
+5008,Smith-Bowen,Pre-IPO / Private,Northeast,50
+5009,"Baker, Mason and White",Investment Bank,Northeast,400
+5010,Harrell LLC,Pre-IPO / Private,West,400
+5011,"Romero, Gonzalez and Brooks",Large Cap Public,Texas/Central,800
+5012,Ryan PLC,Private Equity,Northeast,800
+5013,George Group,Large Cap Public,West,400
+5014,Rodriguez LLC,Fund/Asset Manager,West,8000
+5015,Allen-Allen,Pre-IPO / Private,West,150
+5016,"Arroyo, Miller and Tucker",Fund/Asset Manager,Northeast,50
+5017,Spence PLC,Fund/Asset Manager,Mid-Atlantic,8000
+5018,Anderson Group,Pre-IPO / Private,Northeast,8000
+5019,"Martin, Rose and Obrien",Mid Cap Public,Northeast,800
+5020,Hickman Ltd,Pre-IPO / Private,Southeast,3000
+5021,"Harris, Collins and Carney",Pre-IPO / Private,Mid-Atlantic,400
+5022,"Brooks, Lam and Hayes",Pre-IPO / Private,Mid-Atlantic,3000
+5023,Walker LLC,Pre-IPO / Private,Texas/Central,3000
+5024,Chapman and Sons,Fund/Asset Manager,Northeast,1500
+5025,"Robinson, Jones and Welch",Fund/Asset Manager,Mid-Atlantic,1500
+5026,Jones Inc,Fund/Asset Manager,Mid-Atlantic,150
+5027,Jones-Young,Investment Bank,Southeast,400
+5028,"Washington, Ryan and Cummings",Fund/Asset Manager,Texas/Central,1500
+5029,"Johnston, Sanchez and Kennedy",Mid Cap Public,Texas/Central,400
+5030,Lee-Davis,Large Cap Public,Mid-Atlantic,8000
+5031,Gomez-Jenkins,Large Cap Public,Midwest,800
+5032,"Brown, Valdez and Lucas",Pre-IPO / Private,Northeast,150
+5033,Powell LLC,Private Equity,Texas/Central,400
+5034,Wright and Sons,Mid Cap Public,Texas/Central,800
+5035,"West, Henderson and Ramirez",Investment Bank,Texas/Central,800
+5036,Baxter Inc,Mid Cap Public,Midwest,150
+5037,Morton-Chase,Mid Cap Public,Texas/Central,1500
+5038,Williams PLC,Private Equity,Midwest,3000
+5039,Novak and Sons,Private Equity,Southeast,1500
+5040,Russell Group,Investment Bank,Midwest,150
+5041,Hancock Inc,Mid Cap Public,West,800
+5042,Gray Group,Large Cap Public,Northeast,8000
+5043,House-Glover,Large Cap Public,Mid-Atlantic,3000
+5044,Henderson-Bernard,Mid Cap Public,Texas/Central,800
+5045,"Stanley, Tucker and Lee",Private Equity,Northeast,800
+5046,Novak PLC,Investment Bank,West,800
+5047,"Daniels, Adkins and Brown",Private Equity,Midwest,1500
+5048,"Woods, Calhoun and Schmidt",Large Cap Public,Texas/Central,3000
+5049,Yu Inc,Large Cap Public,Texas/Central,1500
+5050,Jones Inc,Pre-IPO / Private,Texas/Central,400
+5051,"Hensley, Powell and David",Large Cap Public,Midwest,800
+5052,"Sanchez, Wheeler and Harvey",Mid Cap Public,Southeast,50
+5053,Sandoval-Cunningham,Fund/Asset Manager,Texas/Central,400
+5054,Donovan-Harris,Private Equity,Mid-Atlantic,1500
+5055,"Edwards, Baker and Anderson",Large Cap Public,Texas/Central,400
+5056,"Evans, Stewart and Walton",Fund/Asset Manager,West,1500
+5057,Smith PLC,Mid Cap Public,Mid-Atlantic,400
+5058,"Ferrell, Jones and Lewis",Mid Cap Public,West,8000
+5059,Anderson-Bailey,Private Equity,Northeast,1500
+5060,Suarez LLC,Pre-IPO / Private,Southeast,50
+5061,Moore-Bass,Large Cap Public,Midwest,8000
+5062,"Turner, Riggs and Roman",Pre-IPO / Private,Mid-Atlantic,50
+5063,"Smith, Montoya and Evans",Mid Cap Public,West,50
+5064,"Garcia, Humphrey and Baker",Large Cap Public,Texas/Central,800
+5065,Newton and Sons,Large Cap Public,West,8000
+5066,Campbell-Clark,Mid Cap Public,Mid-Atlantic,3000
+5067,Harris-Walters,Investment Bank,West,150
+5068,Wagner-King,Pre-IPO / Private,West,8000
+5069,Davis Group,Private Equity,Southeast,150
+5070,Williams-Cook,Private Equity,Texas/Central,3000
+5071,Walsh LLC,Mid Cap Public,Texas/Central,400
+5072,Figueroa PLC,Investment Bank,Texas/Central,3000
+5073,"Patterson, Smith and Jones",Pre-IPO / Private,Southeast,1500
+5074,"Mckee, Gardner and Davenport",Investment Bank,Northeast,150
+5075,"Tran, Jordan and Williams",Mid Cap Public,Northeast,400
+5076,Nolan-Flynn,Large Cap Public,West,1500
+5077,Nolan and Sons,Mid Cap Public,West,150
+5078,"Wright, Garcia and Deleon",Large Cap Public,Northeast,3000
+5079,Dickson-Brady,Fund/Asset Manager,Northeast,150
+5080,Hancock and Sons,Large Cap Public,Northeast,8000
+5081,Johnson-Doyle,Pre-IPO / Private,Northeast,1500
+5082,Patton-Jenkins,Mid Cap Public,Midwest,3000
+5083,"Shields, Cochran and Adams",Investment Bank,Mid-Atlantic,1500
+5084,"Rodriguez, Brennan and Garrison",Mid Cap Public,Texas/Central,1500
+5085,Gonzalez Group,Private Equity,Southeast,150
+5086,Torres-Pope,Investment Bank,Southeast,150
+5087,Walker Ltd,Large Cap Public,Northeast,3000
+5088,Ross LLC,Investment Bank,Midwest,800
+5089,Rasmussen LLC,Investment Bank,Southeast,8000
+5090,May-Ross,Fund/Asset Manager,Northeast,3000
+5091,"Rivera, Johnson and Wiley",Fund/Asset Manager,Texas/Central,50
+5092,White-Estes,Large Cap Public,Southeast,3000
+5093,Johnson-Carlson,Pre-IPO / Private,Northeast,150
+5094,Chandler-Edwards,Mid Cap Public,Mid-Atlantic,1500
+5095,"Joyce, Wilson and Lam",Investment Bank,Mid-Atlantic,800
+5096,Scott Ltd,Mid Cap Public,Midwest,800
+5097,Smith-Frost,Mid Cap Public,Northeast,800
+5098,"Mcdaniel, Bentley and Mclaughlin",Private Equity,Northeast,50
+5099,Diaz Inc,Fund/Asset Manager,West,8000
+5100,"Mccall, Hanson and Alvarado",Large Cap Public,Northeast,8000
+5101,Cortez LLC,Mid Cap Public,Mid-Atlantic,800
+5102,"Parker, Ortiz and Powell",Investment Bank,Southeast,150
+5103,Spencer-Lee,Investment Bank,Northeast,150
+5104,"Bentley, Byrd and Orr",Investment Bank,Northeast,800
+5105,"Carroll, Sullivan and Bass",Pre-IPO / Private,Southeast,400
+5106,Mitchell-Jordan,Investment Bank,Texas/Central,3000
+5107,"Lawson, Morris and Ramos",Private Equity,Texas/Central,3000
+5108,"Lewis, Kennedy and Santana",Investment Bank,Mid-Atlantic,150
+5109,"Jackson, Miller and Robertson",Pre-IPO / Private,Mid-Atlantic,50
+5110,"Harvey, Davis and Crane",Private Equity,Texas/Central,1500
+5111,Chambers and Sons,Large Cap Public,Texas/Central,400
+5112,Hernandez Inc,Large Cap Public,Northeast,1500
+5113,Riggs PLC,Investment Bank,West,8000
+5114,Gibson Ltd,Private Equity,Mid-Atlantic,50
+5115,"Lee, Horton and Snyder",Private Equity,Northeast,8000
+5116,Hernandez Ltd,Mid Cap Public,Northeast,1500
+5117,Stafford Inc,Large Cap Public,Texas/Central,8000
+5118,Robinson-Brock,Mid Cap Public,Southeast,50
+5119,"Holmes, Williams and Wright",Private Equity,Mid-Atlantic,1500
+5120,Bryant Group,Private Equity,Northeast,1500
+5121,"Schmidt, Hansen and Stewart",Large Cap Public,Southeast,3000
+5122,Salazar-Ball,Private Equity,West,1500
+5123,"Simmons, Meadows and Griffin",Pre-IPO / Private,Midwest,150
+5124,Manning Group,Fund/Asset Manager,Texas/Central,400
+5125,Green-Wright,Mid Cap Public,Midwest,800
+5126,"Ramirez, Strickland and Washington",Mid Cap Public,Texas/Central,3000
+5127,Hill Inc,Pre-IPO / Private,Southeast,400
+5128,"Mitchell, Nelson and Flores",Large Cap Public,Northeast,800
+5129,"Miller, Hernandez and Reyes",Private Equity,West,50
+5130,Mccarthy Inc,Large Cap Public,West,150
+5131,Russell-Daniels,Private Equity,Midwest,150
+5132,Brown-Wall,Pre-IPO / Private,Northeast,150
+5133,Stein-Silva,Pre-IPO / Private,Midwest,150
+5134,"Smith, Gilmore and Johnston",Investment Bank,West,3000
+5135,Smith-Bell,Pre-IPO / Private,West,8000
+5136,Castaneda-Ashley,Fund/Asset Manager,West,50
+5137,Medina-Navarro,Fund/Asset Manager,West,400
+5138,"Hurst, Freeman and Nelson",Fund/Asset Manager,Northeast,150
+5139,Johnson-Rogers,Pre-IPO / Private,Northeast,50
+5140,"Yates, Ramsey and Pittman",Fund/Asset Manager,West,150
+5141,Hooper PLC,Pre-IPO / Private,Midwest,1500
+5142,Meadows PLC,Mid Cap Public,Texas/Central,400
+5143,"Alvarado, Miller and Patterson",Mid Cap Public,Texas/Central,3000
+5144,White-Green,Pre-IPO / Private,West,800
+5145,Lewis-Murphy,Pre-IPO / Private,Northeast,50
+5146,Ramirez-Bean,Fund/Asset Manager,Southeast,8000
+5147,King-Miller,Pre-IPO / Private,Northeast,50
+5148,Curry Inc,Pre-IPO / Private,Mid-Atlantic,3000
+5149,Walker-Jones,Pre-IPO / Private,Mid-Atlantic,3000
+5150,"Williams, Johnson and Wright",Investment Bank,West,3000
+5151,Howell and Sons,Investment Bank,West,50
+5152,Wells Inc,Large Cap Public,Northeast,3000
+5153,"Gould, Marshall and Scott",Mid Cap Public,West,50
+5154,Jackson-Lawson,Pre-IPO / Private,West,1500
+5155,"Higgins, Strickland and Martin",Mid Cap Public,Southeast,150
+5156,Rodriguez-Johnson,Large Cap Public,Midwest,400
+5157,Johnston-Odonnell,Large Cap Public,Midwest,150
+5158,Sanders-Espinoza,Fund/Asset Manager,Mid-Atlantic,3000
+5159,Vargas Ltd,Large Cap Public,Midwest,8000
+5160,Garcia LLC,Private Equity,Southeast,1500
+5161,"Burke, Martinez and Riggs",Fund/Asset Manager,Mid-Atlantic,150
+5162,Reed Group,Mid Cap Public,Mid-Atlantic,800
+5163,"Wood, Hunter and Peterson",Large Cap Public,Mid-Atlantic,3000
+5164,Short-Garcia,Pre-IPO / Private,Southeast,8000
+5165,Reid-Poole,Fund/Asset Manager,Texas/Central,8000
+5166,"Hernandez, Thompson and Boyd",Mid Cap Public,Midwest,150
+5167,"Nelson, Morton and Medina",Fund/Asset Manager,Northeast,800
+5168,Marshall-Petersen,Large Cap Public,Southeast,150
+5169,"Adams, Christian and Rivas",Mid Cap Public,Southeast,400
+5170,Ramirez Group,Pre-IPO / Private,Mid-Atlantic,150
+5171,Christensen PLC,Large Cap Public,Texas/Central,150
+5172,"Barnett, Rogers and Snyder",Investment Bank,Midwest,400
+5173,White-Lewis,Large Cap Public,Midwest,400
+5174,Peterson-Beard,Fund/Asset Manager,West,800
+5175,"Beard, Peters and Black",Fund/Asset Manager,West,400
+5176,Miller Ltd,Large Cap Public,Northeast,400
+5177,Freeman-Chang,Mid Cap Public,West,400
+5178,"Alvarez, Joseph and West",Large Cap Public,Northeast,1500
+5179,Davis and Sons,Investment Bank,Midwest,3000
+5180,Holt-Torres,Pre-IPO / Private,Southeast,1500
+5181,"Wood, Tran and Cooper",Private Equity,Northeast,800
+5182,"Pierce, Bell and Chavez",Private Equity,Mid-Atlantic,400
+5183,King-Martinez,Large Cap Public,Texas/Central,800
+5184,Stewart Ltd,Large Cap Public,West,8000
+5185,"Tapia, Vaughn and Lee",Private Equity,Texas/Central,3000
+5186,"Washington, Hardy and Bray",Fund/Asset Manager,Texas/Central,3000
+5187,"Carlson, Hooper and Wall",Mid Cap Public,Midwest,800
+5188,Perez-White,Large Cap Public,Texas/Central,400
+5189,Erickson and Sons,Private Equity,Midwest,3000
+5190,Williams-Brown,Large Cap Public,Texas/Central,400
+5191,Terry-Martinez,Private Equity,Midwest,3000
+5192,Garcia-Smith,Investment Bank,Midwest,800
+5193,Harrison-Alexander,Fund/Asset Manager,Midwest,1500
+5194,Sheppard LLC,Mid Cap Public,Mid-Atlantic,800
+5195,Wilson-Jones,Fund/Asset Manager,Southeast,3000
+5196,Jones-Soto,Fund/Asset Manager,Mid-Atlantic,1500
+5197,Hernandez PLC,Private Equity,Midwest,800
+5198,Miller-Wright,Private Equity,Northeast,400
+5199,"Duran, Obrien and Gibbs",Pre-IPO / Private,Mid-Atlantic,800
+5200,Rowe Group,Private Equity,West,3000
+5201,Kerr-Evans,Pre-IPO / Private,Southeast,800
+5202,"Branch, Torres and Oliver",Investment Bank,Texas/Central,150
+5203,"Choi, Garcia and Farmer",Private Equity,Southeast,8000
+5204,"Clark, Guerrero and Moore",Fund/Asset Manager,Mid-Atlantic,3000
+5205,Arnold and Sons,Large Cap Public,Midwest,1500
+5206,Ortiz Ltd,Fund/Asset Manager,Texas/Central,1500
+5207,"Harrison, Johnson and Roberts",Pre-IPO / Private,Northeast,8000
+5208,Warner-Gibson,Mid Cap Public,Texas/Central,400
+5209,"Hall, Baker and Moody",Mid Cap Public,Mid-Atlantic,150
+5210,"Guerrero, Peck and Coleman",Large Cap Public,Northeast,150
+5211,"Walker, Hernandez and Baker",Investment Bank,West,8000
+5212,Jones and Sons,Large Cap Public,Southeast,800
+5213,Larson-Holloway,Fund/Asset Manager,West,150
+5214,Gonzales-Harrison,Fund/Asset Manager,Texas/Central,800
+5215,Lyons-Bender,Investment Bank,Southeast,150
+5216,"Fernandez, Kim and George",Mid Cap Public,Texas/Central,3000
+5217,Navarro-Munoz,Large Cap Public,Northeast,8000
+5218,Davis Ltd,Investment Bank,Mid-Atlantic,150
+5219,"Matthews, Smith and Hubbard",Fund/Asset Manager,West,800
+5220,Johnston-Hines,Large Cap Public,West,150
+5221,Ruiz Ltd,Large Cap Public,Southeast,150
+5222,Moon-White,Investment Bank,Texas/Central,1500
+5223,"Graham, Olsen and Costa",Private Equity,West,400
+5224,Bailey-Cook,Investment Bank,West,8000
+5225,"Garcia, Martin and Jenkins",Fund/Asset Manager,West,800
+5226,Roberts-Landry,Private Equity,Southeast,150
+5227,"Johnson, Miller and King",Fund/Asset Manager,Southeast,800
+5228,Cordova Group,Pre-IPO / Private,Mid-Atlantic,8000
+5229,"Bryan, Smith and Booth",Fund/Asset Manager,Midwest,8000
+5230,Gutierrez-Lopez,Private Equity,Southeast,3000
+5231,Dean-Jimenez,Mid Cap Public,Midwest,800
+5232,Wolf-Harris,Large Cap Public,Texas/Central,400
+5233,"Anderson, Roberts and Gilmore",Mid Cap Public,Midwest,400
+5234,Martinez-Dudley,Pre-IPO / Private,West,50
+5235,"Lloyd, Mckinney and Collins",Mid Cap Public,Mid-Atlantic,150
+5236,Tran Inc,Investment Bank,Texas/Central,150
+5237,Gay Inc,Fund/Asset Manager,Mid-Atlantic,50
+5238,Valentine-Holland,Investment Bank,Southeast,400
+5239,Jimenez Ltd,Private Equity,Southeast,800
+5240,Hicks-Hill,Large Cap Public,Mid-Atlantic,8000
+5241,Baird-Sanchez,Investment Bank,Southeast,8000
+5242,"Thomas, Lee and Greene",Private Equity,Texas/Central,50
+5243,"Suarez, Shields and Hill",Private Equity,Southeast,800
+5244,Morgan-French,Large Cap Public,Midwest,400
+5245,Hoover-Campbell,Investment Bank,Southeast,1500
+5246,Monroe-Carpenter,Fund/Asset Manager,Texas/Central,1500
+5247,"Burns, Hernandez and Ryan",Private Equity,Mid-Atlantic,800
+5248,Cook-Hines,Mid Cap Public,Midwest,800
+5249,Gibson-Morris,Investment Bank,Northeast,800
+5250,Pollard and Sons,Pre-IPO / Private,Texas/Central,3000
+5251,"Reyes, Chase and Jenkins",Investment Bank,Texas/Central,150
+5252,Garner-Thornton,Investment Bank,Mid-Atlantic,1500
+5253,Hughes-Alvarado,Private Equity,Northeast,800
+5254,"Pollard, Simpson and Johnson",Private Equity,West,3000
+5255,"Sanford, Rivera and Garcia",Large Cap Public,Northeast,3000
+5256,Garcia-Lozano,Investment Bank,Mid-Atlantic,8000
+5257,Bowen Group,Investment Bank,Mid-Atlantic,50
+5258,"Booker, Jones and Harrington",Pre-IPO / Private,Southeast,400
+5259,Morgan-Schwartz,Mid Cap Public,Southeast,400
+5260,"Miller, Murphy and Craig",Pre-IPO / Private,Southeast,400
+5261,"James, Stewart and Higgins",Investment Bank,Midwest,8000
+5262,Brennan-Johnson,Large Cap Public,Southeast,50
+5263,Young Ltd,Fund/Asset Manager,West,50
+5264,Bright-Francis,Pre-IPO / Private,Mid-Atlantic,3000
+5265,Good-Hodges,Large Cap Public,Texas/Central,50
+5266,"Brennan, Wallace and Benson",Large Cap Public,Mid-Atlantic,150
+5267,Williams Inc,Large Cap Public,West,150
+5268,Howard-Jordan,Mid Cap Public,Mid-Atlantic,800
+5269,Schmidt PLC,Fund/Asset Manager,Northeast,1500
+5270,"Sparks, Jackson and Miller",Mid Cap Public,Southeast,3000
+5271,Harvey-Allen,Pre-IPO / Private,Midwest,150
+5272,"Thomas, Murray and King",Private Equity,West,3000
+5273,Estrada-Nolan,Fund/Asset Manager,Northeast,8000
+5274,Santana-Byrd,Mid Cap Public,Midwest,50
+5275,Jones LLC,Private Equity,Northeast,400
+5276,"Evans, Hayden and Vaughn",Private Equity,Texas/Central,800
+5277,Bruce-Gonzalez,Investment Bank,Texas/Central,150
+5278,Castaneda-Rodriguez,Large Cap Public,West,3000
+5279,Armstrong-Andrews,Fund/Asset Manager,Mid-Atlantic,50
+5280,"Phillips, Spence and Barrett",Fund/Asset Manager,Midwest,8000
+5281,Smith-Grimes,Fund/Asset Manager,West,8000
+5282,"Beltran, Lozano and Mcgee",Large Cap Public,West,8000
+5283,Parsons-Hall,Large Cap Public,Midwest,1500
+5284,Robinson-Lee,Investment Bank,Texas/Central,400
+5285,Byrd-Le,Large Cap Public,West,3000
+5286,"Becker, Taylor and Davis",Pre-IPO / Private,Northeast,8000
+5287,"Lucas, Parker and Alexander",Investment Bank,Southeast,50
+5288,"Diaz, Anderson and Browning",Investment Bank,Midwest,3000
+5289,Burgess-Thompson,Investment Bank,Texas/Central,150
+5290,Buchanan LLC,Investment Bank,Mid-Atlantic,3000
+5291,"Shaw, Nelson and Martin",Private Equity,Texas/Central,400
+5292,Coffey-Phillips,Private Equity,West,8000
+5293,Brock-Mcdonald,Investment Bank,Southeast,800
+5294,Taylor and Sons,Fund/Asset Manager,West,400
+5295,"Ramsey, Whitney and Coffey",Pre-IPO / Private,Mid-Atlantic,8000
+5296,"Diaz, Gibbs and Smith",Large Cap Public,Midwest,800
+5297,"Martinez, Richardson and Curry",Mid Cap Public,Southeast,1500
+5298,Richards-Carson,Private Equity,Texas/Central,800
+5299,Rodriguez-Hall,Pre-IPO / Private,Northeast,800
+5300,Harvey PLC,Pre-IPO / Private,Mid-Atlantic,800
+5301,Herman-Walker,Mid Cap Public,Midwest,8000
+5302,Reid Group,Pre-IPO / Private,Midwest,400
+5303,"Turner, Ortiz and Taylor",Private Equity,Texas/Central,400
+5304,Torres Group,Private Equity,Northeast,1500
+5305,Davis PLC,Mid Cap Public,Northeast,150
+5306,Price LLC,Fund/Asset Manager,Southeast,800
+5307,"Avery, Horton and Fernandez",Private Equity,Mid-Atlantic,3000
+5308,"Newton, Moore and Perry",Investment Bank,Texas/Central,3000
+5309,Bass PLC,Investment Bank,Southeast,8000
+5310,Crosby-Ramirez,Large Cap Public,Northeast,400
+5311,"Wood, Ramos and Sampson",Mid Cap Public,Southeast,3000
+5312,Garcia-Jennings,Mid Cap Public,Midwest,3000
+5313,"Winters, Newman and Brown",Private Equity,Midwest,800
+5314,Lopez-Martinez,Private Equity,West,400
+5315,Davis-Lewis,Investment Bank,Texas/Central,1500
+5316,"Harper, Smith and Buchanan",Pre-IPO / Private,Midwest,3000
+5317,Zhang PLC,Investment Bank,Midwest,400
+5318,Jones PLC,Pre-IPO / Private,Mid-Atlantic,50
+5319,Willis and Sons,Fund/Asset Manager,Mid-Atlantic,400
+5320,Schroeder-Kramer,Large Cap Public,Texas/Central,1500
+5321,"Smith, Garrison and Thomas",Fund/Asset Manager,Mid-Atlantic,150
+5322,Fernandez and Sons,Mid Cap Public,Texas/Central,800
+5323,Guerrero Inc,Pre-IPO / Private,Texas/Central,1500
+5324,Smith and Sons,Private Equity,West,400
+5325,"Morris, Thompson and Williams",Large Cap Public,Mid-Atlantic,400
+5326,"Fisher, Wilson and Brown",Mid Cap Public,Midwest,150
+5327,Strickland-Palmer,Pre-IPO / Private,Northeast,3000
+5328,Hayes and Sons,Private Equity,Mid-Atlantic,400
+5329,"Williams, Logan and Camacho",Large Cap Public,Northeast,1500
+5330,"Turner, Schneider and Johnson",Pre-IPO / Private,Texas/Central,150
+5331,Boone-Simmons,Fund/Asset Manager,Southeast,50
+5332,Henry Group,Large Cap Public,West,400
+5333,Lam LLC,Investment Bank,Southeast,800
+5334,"Hernandez, Martinez and Weber",Pre-IPO / Private,Mid-Atlantic,50
+5335,"Kelley, Nguyen and Vang",Pre-IPO / Private,Southeast,50
+5336,"Phillips, Wagner and Jordan",Large Cap Public,Southeast,800
+5337,"Wilson, Pena and Rich",Large Cap Public,West,3000
+5338,"Le, Lewis and Hayes",Fund/Asset Manager,Northeast,150
+5339,Gutierrez Group,Mid Cap Public,West,400
+5340,Perry-Davis,Large Cap Public,Mid-Atlantic,50
+5341,Edwards-Scott,Private Equity,Southeast,1500
+5342,Mcdaniel Group,Private Equity,West,150
+5343,Davis Inc,Private Equity,Southeast,800
+5344,Reynolds Ltd,Investment Bank,Midwest,8000
+5345,"Watson, Anderson and Brown",Private Equity,Southeast,400
+5346,"Hoffman, Santiago and Jenkins",Private Equity,West,50
+5347,"Pugh, Henderson and Moon",Private Equity,Texas/Central,50
+5348,Schmitt PLC,Mid Cap Public,Texas/Central,150
+5349,Bell-Lane,Pre-IPO / Private,Texas/Central,50
+5350,Moore Group,Mid Cap Public,Mid-Atlantic,150
+5351,Boone LLC,Private Equity,Northeast,150
+5352,"Richardson, Farmer and Andrews",Large Cap Public,Southeast,800
+5353,Bruce-Villegas,Fund/Asset Manager,West,800
+5354,"Austin, Day and Johnson",Pre-IPO / Private,Northeast,150
+5355,"Gallegos, Adams and White",Pre-IPO / Private,Texas/Central,400
+5356,"Farmer, Dorsey and Bell",Fund/Asset Manager,Southeast,50
+5357,Kane PLC,Fund/Asset Manager,Mid-Atlantic,400
+5358,"Morales, Thomas and Schultz",Fund/Asset Manager,West,3000
+5359,Davis PLC,Mid Cap Public,Southeast,50
+5360,Bennett Group,Private Equity,Mid-Atlantic,3000
+5361,Moore-Collins,Mid Cap Public,Midwest,8000
+5362,Frank-Bradley,Mid Cap Public,Northeast,50
+5363,Ware and Sons,Mid Cap Public,Midwest,1500
+5364,Webster Inc,Fund/Asset Manager,West,400
+5365,"Miller, Ramos and Coleman",Investment Bank,Northeast,800
+5366,"Ramos, Nelson and Fischer",Fund/Asset Manager,Midwest,3000
+5367,Reed Inc,Investment Bank,Midwest,1500
+5368,Gregory-Watkins,Private Equity,Southeast,800
+5369,"Estrada, Williams and Foster",Large Cap Public,West,50
+5370,"Brown, Harris and Dougherty",Investment Bank,Texas/Central,400
+5371,Duran LLC,Private Equity,Midwest,50
+5372,Wilson-Jimenez,Large Cap Public,Mid-Atlantic,3000
+5373,Thompson-James,Private Equity,West,50
+5374,"Hall, Hansen and Barnett",Fund/Asset Manager,Midwest,1500
+5375,Jones-Hensley,Large Cap Public,Mid-Atlantic,800
+5376,Graham Group,Private Equity,Texas/Central,800
+5377,Atkins PLC,Pre-IPO / Private,Mid-Atlantic,1500
+5378,Berry-Mckinney,Investment Bank,Texas/Central,8000
+5379,Roberts-Sullivan,Investment Bank,Northeast,800
+5380,Jackson-Meza,Pre-IPO / Private,Southeast,400
+5381,Collier-Gillespie,Pre-IPO / Private,Texas/Central,50
+5382,Kim Inc,Mid Cap Public,Midwest,800
+5383,Graham Group,Fund/Asset Manager,Southeast,400
+5384,"Miller, Harrell and Reese",Fund/Asset Manager,Southeast,8000
+5385,Cook and Sons,Private Equity,Northeast,800
+5386,Dixon Inc,Large Cap Public,Midwest,400
+5387,"Hicks, Bullock and Bailey",Pre-IPO / Private,Northeast,8000
+5388,"Mullen, Brewer and Hernandez",Investment Bank,West,8000
+5389,Thomas and Sons,Large Cap Public,Texas/Central,8000
+5390,Morrison Ltd,Private Equity,Southeast,800
+5391,Thompson Ltd,Large Cap Public,Mid-Atlantic,1500
+5392,Marshall-Elliott,Pre-IPO / Private,West,8000
+5393,"Cole, Glass and Cunningham",Investment Bank,Texas/Central,800
+5394,"Downs, Morris and Maddox",Large Cap Public,Mid-Atlantic,400
+5395,Hernandez-Jones,Private Equity,Mid-Atlantic,400
+5396,Welch-Hogan,Investment Bank,Texas/Central,800
+5397,"Brown, Romero and Collins",Large Cap Public,Northeast,3000
+5398,Johnson-Wood,Private Equity,Mid-Atlantic,3000
+5399,Jones-Lin,Mid Cap Public,Midwest,1500
+5400,Gilbert PLC,Large Cap Public,West,800
+5401,Ford-Spencer,Large Cap Public,Mid-Atlantic,8000
+5402,"Huang, Cole and Pacheco",Large Cap Public,Southeast,50
+5403,"Lopez, Jacobs and Mason",Fund/Asset Manager,Mid-Atlantic,800
+5404,Hayes LLC,Fund/Asset Manager,Midwest,1500
+5405,"Miller, Lucas and Williams",Fund/Asset Manager,Midwest,800
+5406,"Kim, Gonzales and Mills",Investment Bank,Southeast,150
+5407,Cox LLC,Investment Bank,West,150
+5408,Ortiz-Morgan,Investment Bank,Mid-Atlantic,1500
+5409,"Williams, Mccoy and Cook",Private Equity,Texas/Central,150
+5410,Davis-Gregory,Large Cap Public,Midwest,8000
+5411,King-York,Investment Bank,Midwest,8000
+5412,"Marks, Cook and Aguilar",Private Equity,Midwest,8000
+5413,Rangel LLC,Large Cap Public,Midwest,3000
+5414,"Hale, Myers and Larson",Pre-IPO / Private,West,1500
+5415,Collins Group,Fund/Asset Manager,Southeast,8000
+5416,"Conner, Li and Santiago",Mid Cap Public,Southeast,1500
+5417,"Osborn, Gaines and Davis",Investment Bank,Midwest,400
+5418,"Henderson, Cox and Cox",Private Equity,West,800
+5419,Bean LLC,Investment Bank,Midwest,8000
+5420,Lee-Cooke,Mid Cap Public,Texas/Central,150
+5421,Jones Inc,Private Equity,Southeast,150
+5422,"Wise, Conley and Stephenson",Investment Bank,Northeast,400
+5423,Stanley PLC,Fund/Asset Manager,Southeast,3000
+5424,Harper and Sons,Investment Bank,Southeast,3000
+5425,White Ltd,Fund/Asset Manager,Mid-Atlantic,800
+5426,"Lamb, Martin and Kim",Large Cap Public,Mid-Atlantic,1500
+5427,Diaz-Ball,Private Equity,Midwest,8000
+5428,Bishop-Goodwin,Large Cap Public,Southeast,50
+5429,Young-Allen,Private Equity,Southeast,50
+5430,Mckee-Lee,Fund/Asset Manager,Mid-Atlantic,800
+5431,"Valentine, Joyce and Murray",Fund/Asset Manager,Mid-Atlantic,50
+5432,Strickland-Shaw,Investment Bank,Midwest,400
+5433,Burch-Montoya,Private Equity,Texas/Central,800
+5434,"Taylor, Wright and Davidson",Fund/Asset Manager,Northeast,8000
+5435,Spencer-Garcia,Pre-IPO / Private,Texas/Central,8000
+5436,"Rosales, Mitchell and Hines",Private Equity,Southeast,400
+5437,Cole-Palmer,Fund/Asset Manager,Texas/Central,8000
+5438,Davis-Lozano,Investment Bank,West,50
+5439,Wilkerson-Arias,Private Equity,Northeast,150
+5440,Brown-Shaw,Fund/Asset Manager,Texas/Central,400
+5441,Hughes Inc,Mid Cap Public,Texas/Central,50
+5442,Walker-Flores,Investment Bank,Northeast,8000
+5443,Combs Ltd,Fund/Asset Manager,Texas/Central,8000
+5444,Moody-Taylor,Large Cap Public,Southeast,150
+5445,Lowery-Kennedy,Fund/Asset Manager,Midwest,50
+5446,Blake Group,Large Cap Public,Midwest,8000
+5447,Gilbert-Bullock,Large Cap Public,Midwest,400
+5448,Scott and Sons,Pre-IPO / Private,Southeast,150
+5449,"Bentley, Lynch and Henderson",Mid Cap Public,West,800
+5450,Young-Martinez,Private Equity,Texas/Central,8000
+5451,Barnes PLC,Mid Cap Public,Mid-Atlantic,150
+5452,Brown-Copeland,Large Cap Public,West,8000
+5453,Carlson-Smith,Investment Bank,West,3000
+5454,"Andrews, Higgins and Carter",Mid Cap Public,Southeast,1500
+5455,Mendez and Sons,Mid Cap Public,Mid-Atlantic,800
+5456,"Butler, Beck and Miller",Fund/Asset Manager,Midwest,800
+5457,Jones-Fox,Pre-IPO / Private,Texas/Central,50
+5458,"Hartman, Romero and Smith",Investment Bank,Midwest,3000
+5459,Williams-Hughes,Private Equity,Mid-Atlantic,50
+5460,King-Smith,Investment Bank,Midwest,1500
+5461,Cooper Ltd,Pre-IPO / Private,Texas/Central,800
+5462,"Fuller, Ingram and Moss",Fund/Asset Manager,Midwest,800
+5463,Anderson-Bell,Pre-IPO / Private,Mid-Atlantic,800
+5464,Li-Thompson,Investment Bank,Northeast,150
+5465,"Marshall, Dominguez and Welch",Investment Bank,West,400
+5466,Brown Group,Private Equity,Midwest,3000
+5467,Carter Inc,Pre-IPO / Private,Northeast,8000
+5468,Blackwell LLC,Fund/Asset Manager,Southeast,400
+5469,Robertson-Hays,Large Cap Public,West,8000
+5470,"Kennedy, Johnson and Lucas",Fund/Asset Manager,Texas/Central,50
+5471,Kelly-Norman,Private Equity,Texas/Central,800
+5472,"Rivera, Martinez and Richardson",Pre-IPO / Private,Mid-Atlantic,1500
+5473,Paul-Kline,Pre-IPO / Private,Mid-Atlantic,3000
+5474,Morgan-Lopez,Mid Cap Public,West,400
+5475,"Jimenez, Glass and Stone",Fund/Asset Manager,Texas/Central,8000
+5476,Acosta Inc,Fund/Asset Manager,Texas/Central,8000
+5477,Morrison-Short,Mid Cap Public,Texas/Central,50
+5478,"Carter, Garcia and Murphy",Fund/Asset Manager,Texas/Central,50
+5479,Parker-Morrison,Pre-IPO / Private,Southeast,50
