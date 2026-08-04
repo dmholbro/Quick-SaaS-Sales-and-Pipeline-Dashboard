@@ -21,6 +21,8 @@ churn profiles for each product line.
 
 ---
 
+![Dashboard Preview](dashboard-preview.png)
+
 ## Dashboard Pages
 
 ### Page 1 — Executive Summary
